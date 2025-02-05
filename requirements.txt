@@ -1,0 +1,10 @@
+datasets
+transformers
+tqdm
+zenoml
+zeno_client
+ipywidgets
+torch
+torchvision
+torchaudio
+pandas
